@@ -1,0 +1,9 @@
+simpy==4.0.2
+pandas
+sqlalchemy
+pyodbc
+python-dotenv
+
+# API server (Live View)
+fastapi
+uvicorn[standard]

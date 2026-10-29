@@ -1,0 +1,14 @@
+{
+  "data_source": "db",
+  "max_orders": 100,
+  "max_machines": null,
+  "tray_size": 150,
+  "stock_capacity_trays": 20,
+  "poll_interval_sec": 0.1,
+  "summary_interval_sec": 7200,
+  "progress": true,
+  "orders": "orders.csv",
+  "machines": "machines.csv",
+  "machine_restrictions": "restrictions_filtered.csv",
+  "changeovers": "changeover_data.csv"
+}

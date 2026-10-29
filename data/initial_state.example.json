@@ -1,0 +1,28 @@
+{
+  "completed": {
+    "trays": 0,
+    "parts": 0
+  },
+  "edm_stock": {
+    "Agie1": [
+      {"order_id": "0629455165", "part_number_id": "0433171010", "trays": 2}
+    ],
+    "Agie2": [
+      {"order_id": "0633308158", "part_number_id": "0433171032", "trays": 1}
+    ]
+  },
+  "machines": [
+    {
+      "machine_id": "LASER 1",
+      "order_id": "0629455165",
+      "part_number_id": "0433171010",
+      "percent_complete": 0.35
+    },
+    {
+      "machine_id": "EDM 1",
+      "order_id": "0633308158",
+      "part_number_id": "0433171032",
+      "percent_complete": 0.6
+    }
+  ]
+}

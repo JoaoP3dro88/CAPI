@@ -1,0 +1,11 @@
+﻿dist/
+build/
+*.exe
+*.pkg
+realtime.json
+
+# segredos
+*.pfx
+*.pem
+.env
+*.log
